@@ -121,3 +121,11 @@ Bu proje ile:
 - Hiperparametre optimizasyonu sayesinde en iyi modeli sistematik olarak seçtim.
 
 - Modelin başarımını hem metriklerle hem görselleştirme ile değerlendirdim.
+
+
+
+
+
+## 👨‍💻 Geliştirici
+
+**Teymur Mammadov** 
